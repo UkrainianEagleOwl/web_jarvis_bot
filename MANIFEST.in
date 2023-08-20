@@ -1,0 +1,6 @@
+recursive-include src/game/goose *.png
+recursive-include src/game *.png *.jpg
+include LICENSE
+include CODE_OF_CONDUCT.md
+include pyproject.toml
+include README.md

@@ -1,0 +1,22 @@
+[project]
+name = "jarvis_assistant_bot"
+version = "1.4"
+authors = [
+  { name="Dmytro Filin"},
+  { name="Illya Grygoriev"},
+  { name="Dmytro Klymenko"},
+  { name="Dmytro Paukov"},
+  { name="Alexandr "}
+]
+description = "Jarvis is a personal assistant application that allows you to manage your address book with contacts. The application provides features to add, remove, change, save, and load contacts, making it easier to organize your personal or professional network. In addition, Jarvis integrates with ChatGPT, an AI language model, to provide interactive chat functionality. And to add some entertainment after a hard working day, Jarvis also includes a fun game about Bandera-goose."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/UkrainianEagleOwl/tp_personal_assistant"
+"Bug Tracker" = "https://github.com/UkrainianEagleOwl/tp_personal_assistant/issues"
