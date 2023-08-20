@@ -25,7 +25,7 @@ Jarvis offers the following features:
 
 - **File Sorting**: If you have files in a specified folder, Jarvis can help you sort them by categories such as images, documents, videos, and more. This feature ensures that your files are organized and easily accessible.
 
-- **AI**: *Interactive chat functionality with ChatGPT.*
+- **AI**: Interactive chat functionality with ChatGPT.
 
 ## Getting Started
 
