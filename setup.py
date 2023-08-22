@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 setup(
     name='jarvis_assistant_bot',
-    version='1.4',
+    version='2.0',
     description='Welcome to Jarvis, your personal assistant! Jarvis is here to help you stay organized and manage your contacts, reminders, notes, and files efficiently.',
-    author='Python Forces',
-    url='https://github.com/UkrainianEagleOwl/tp_personal_assistant/tree/97c820e0779d54e488d5d824cce404b06bb4e654',
+    author='UkrainianEagleOwl',
+    url='https://github.com/UkrainianEagleOwl/web_jarvis_bot/tree/main',
     packages=find_packages(),
     include_package_data=True,
     
@@ -21,6 +21,8 @@ setup(
         'cryptography',
         'openai',
         'keyboard',
-        'pygame'
+        'names',
+        'websockets',
+        'aiofiles'
     ],
 )
